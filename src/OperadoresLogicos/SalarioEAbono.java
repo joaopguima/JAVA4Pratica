@@ -1,4 +1,4 @@
-package Programs;
+package OperadoresLogicos;
 
 import java.util.Locale;
 import java.util.Scanner;
