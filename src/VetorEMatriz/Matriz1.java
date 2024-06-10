@@ -32,7 +32,7 @@ public class Matriz1 {
 		}
 
 		System.out.println("\nSoma dos elementos principais: " + somaPrincipal);
-		System.out.println("\nSoma dos elementos principais: " + somaSecundaria);
+		System.out.println("\nSoma dos elementos secundários: " + somaSecundaria);
 
 	}
 }
